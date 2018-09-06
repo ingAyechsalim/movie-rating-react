@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.Rate-zone {
+  position: fixed;
+  right: 10px;
+  top: 10px;
+}

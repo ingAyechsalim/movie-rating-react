@@ -1,0 +1,37 @@
+.ADD,
+.main {
+  border: 1px solid rgb(228, 182, 182);
+  width: 200px;
+  height: 300px;
+  position: relative;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #cccccc;
+  cursor: pointer;
+}
+
+.main {
+  position: relative;
+  top: -330px;
+}
+.input-add {
+  width: 200px;
+  border-radius: 5px;
+  padding: 5px 0px;
+  text-align: center;
+  height: 50px;
+}
+.button-add {
+  margin: 2px;
+  width: 200px;
+  border-radius: 7px;
+  background-color: #74b9ff;
+  padding: 5px 0px;
+  box-shadow: 5px 10px #cccccc;
+  cursor: pointer;
+}
+.button-add:hover {
+  background-color: #a29bfe;
+}
